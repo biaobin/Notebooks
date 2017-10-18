@@ -1,3 +1,11 @@
+# summary
+1. modify your file 
+1. git add *
+1. git commit -m "what I just have done"
+1. git push origin master 
+
+
+
 # how to use git
 - install git
 - make the directory you want to be git repository
