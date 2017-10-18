@@ -1,0 +1,6 @@
+- install git
+- make the directory you want to be git repository
+```
+git init
+```
+
